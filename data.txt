@@ -1,0 +1,8 @@
+The number of cars:0
+The number of bikes:1
+The number of trucks:0
+
+
+Companyname                 type              colour              power(CC)               
+------------------------------------------------------------------------------------------
+honda                             bike                    re                125

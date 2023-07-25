@@ -1,0 +1,8 @@
+The number of cars:1
+The number of bikes:0
+The number of trucks:0
+
+
+Companyname                 type              colour              power(CC)               
+------------------------------------------------------------------------------------------
+honda                             car                    white                1800
